@@ -1,9 +1,9 @@
 # Natural Language Processing
 
-## First assingnent
+## First assignment
 Developing a Naïve Bayas Classifier able to distinguish between english and not-english.  
 
-## Second assingment
+## Second assignment
 The assignment consists in the development a pipeline that, starting from a text in input, in a given language (English, French, German, Italian) outputs the syntactic tree of the sentence itself.
 
 We can assume the following:
